@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2017-05-15 17:39]` [@silverSpoon](https://twitter.com/silverSpoon) ~ [Why did you start learning Functional Programming?](https://twitter.com/silverSpoon/status/863822017715458050)
 - `[2017-05-14 03:21]` [@aomoriringo](https://twitter.com/aomoriringo) ~ [Functor / Applicative / Monad](https://twitter.com/aomoriringo/status/270046177020489728)
 - `[2017-05-13 22:55]` [@aisamanra](https://twitter.com/aisamanra) ~ [Operator as Record Field](https://twitter.com/aisamanra/status/854396345628610565)
 - `[2017-05-13 22:31]` [@antiselfdual](https://twitter.com/antiselfdual) ~ [Why this is not in the Haskell prelude I do not know.](https://twitter.com/antiselfdual/status/855995687900561408)
