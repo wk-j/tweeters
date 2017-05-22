@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2017-05-22 19:51]` [@romanzolotarev](https://twitter.com/romanzolotarev) ~ [Is it easy to comprehend this #Haskell example for you?](https://twitter.com/romanzolotarev/status/866180248328654849)
 - `[2017-05-22 02:36]` [@Ocramius](https://twitter.com/Ocramius) ~ [Wait... There are people out there that are actively suggesting to not use type hints?](https://twitter.com/Ocramius/status/866245255640821761)
 - `[2017-05-16 12:16]` [@RogerAlsing](https://twitter.com/RogerAlsing) ~ [F# or C#](https://twitter.com/RogerAlsing/status/863692615623077888)
 - `[2017-05-15 17:39]` [@silverSpoon](https://twitter.com/silverSpoon) ~ [Why did you start learning Functional Programming?](https://twitter.com/silverSpoon/status/863822017715458050)
