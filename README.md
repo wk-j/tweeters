@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2017-05-22 20:15]` [@schtoeffel](https://twitter.com/schtoeffel) ~ [ELM debugging](https://twitter.com/schtoeffel/status/856882605068865539)
 - `[2017-05-22 20:12]` [@Albinekb](https://twitter.com/Albinekb) ~ [Want to watch any movie inside macOS native picture-in-picture player?](https://twitter.com/Albinekb/status/847078766622990336)
 - `[2017-05-22 20:08]` [@sstephenson](https://twitter.com/sstephenson) ~ [I know! I’ll just write a little shell script that reads a value from stdin.](https://twitter.com/sstephenson/status/854122896612044803)
 - `[2017-05-22 19:59]` [@romanzolotarev](https://twitter.com/romanzolotarev) ~ [Curry Id True 42](https://twitter.com/romanzolotarev/status/865902652445601792)
