@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2017-05-23 13:21]` [@lexi_lambda](https://twitter.com/lexi_lambda) ~ [Can you say TYPECLASSES?](https://twitter.com/lexi_lambda/status/866874490587721728)
 - `[2017-05-22 20:23]` [@jeroldhaas](https://twitter.com/jeroldhaas) ~ [FP Patterns](https://twitter.com/jeroldhaas/status/535919819355598848)
 - `[2017-05-22 20:18]` [@drboolean](https://twitter.com/drboolean) ~ [Algebraic Structures](https://twitter.com/drboolean/status/846041299786514436)
 - `[2017-05-22 20:15]` [@schtoeffel](https://twitter.com/schtoeffel) ~ [ELM debugging](https://twitter.com/schtoeffel/status/856882605068865539)
