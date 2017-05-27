@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2017-05-28 03:58]` [@rickasaurus](https://twitter.com/rickasaurus) ~ [OO Architecture astronauts don't understand that Haskell](https://twitter.com/rickasaurus/status/867054121634934785)
 - `[2017-05-23 18:53]` [@frr149](https://twitter.com/frr149) ~ [Quickly falling in love with #fsharp](https://twitter.com/frr149/status/866783502666055680)
 - `[2017-05-23 13:21]` [@lexi_lambda](https://twitter.com/lexi_lambda) ~ [Can you say TYPECLASSES?](https://twitter.com/lexi_lambda/status/866874490587721728)
 - `[2017-05-22 20:23]` [@jeroldhaas](https://twitter.com/jeroldhaas) ~ [FP Patterns](https://twitter.com/jeroldhaas/status/535919819355598848)
@@ -9,7 +10,7 @@
 - `[2017-05-22 20:08]` [@sstephenson](https://twitter.com/sstephenson) ~ [I know! I’ll just write a little shell script that reads a value from stdin.](https://twitter.com/sstephenson/status/854122896612044803)
 - `[2017-05-22 19:59]` [@romanzolotarev](https://twitter.com/romanzolotarev) ~ [Curry Id True 42](https://twitter.com/romanzolotarev/status/865902652445601792)
 - `[2017-05-22 19:51]` [@romanzolotarev](https://twitter.com/romanzolotarev) ~ [Is it easy to comprehend this #Haskell example for you?](https://twitter.com/romanzolotarev/status/866180248328654849)
-- `[2017-05-22 02:36]` [@Ocramius](https://twitter.com/Ocramius) ~ [Wait... There are people out there that are actively suggesting to not use type hints?](https://twitter.com/Ocramius/status/866245255640821761)
+- `[2017-05-22 02:36]` [@Ocramius](https://twitter.com/Ocramius) ~ [Wait There are people ... actively suggesting to not use type hints?](https://twitter.com/Ocramius/status/866245255640821761)
 - `[2017-05-16 12:16]` [@RogerAlsing](https://twitter.com/RogerAlsing) ~ [F# or C#](https://twitter.com/RogerAlsing/status/863692615623077888)
 - `[2017-05-15 17:39]` [@silverSpoon](https://twitter.com/silverSpoon) ~ [Why did you start learning Functional Programming?](https://twitter.com/silverSpoon/status/863822017715458050)
 - `[2017-05-14 03:21]` [@aomoriringo](https://twitter.com/aomoriringo) ~ [Functor / Applicative / Monad](https://twitter.com/aomoriringo/status/270046177020489728)
