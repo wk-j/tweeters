@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2017-05-31 02:47]` [@argumatronic](https://twitter.com/argumatronic) ~ [Haskell Pyramid](https://twitter.com/argumatronic/status/869637659639119873)
 - `[2017-05-28 03:58]` [@rickasaurus](https://twitter.com/rickasaurus) ~ [OO Architecture astronauts don't understand that Haskell](https://twitter.com/rickasaurus/status/867054121634934785)
 - `[2017-05-23 18:53]` [@frr149](https://twitter.com/frr149) ~ [Quickly falling in love with #fsharp](https://twitter.com/frr149/status/866783502666055680)
 - `[2017-05-23 13:21]` [@lexi_lambda](https://twitter.com/lexi_lambda) ~ [Can you say TYPECLASSES?](https://twitter.com/lexi_lambda/status/866874490587721728)
