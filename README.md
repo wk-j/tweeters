@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2017-05-31 02:52]` [@nikosbaxevanis](https://twitter.com/nikosbaxevanis) ~ [What's the purpose of having type annotations](https://twitter.com/nikosbaxevanis/status/869629678444838912)
 - `[2017-05-31 02:47]` [@argumatronic](https://twitter.com/argumatronic) ~ [Haskell Pyramid](https://twitter.com/argumatronic/status/869637659639119873)
 - `[2017-05-28 03:58]` [@rickasaurus](https://twitter.com/rickasaurus) ~ [OO Architecture astronauts don't understand that Haskell](https://twitter.com/rickasaurus/status/867054121634934785)
 - `[2017-05-23 18:53]` [@frr149](https://twitter.com/frr149) ~ [Quickly falling in love with #fsharp](https://twitter.com/frr149/status/866783502666055680)
