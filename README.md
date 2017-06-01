@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2017-06-01 18:04]` [@manekinekko](https://twitter.com/manekinekko) ~ [Understanding Async/Await in 7 Seconds](https://twitter.com/manekinekko/status/855824609299636230)
 - `[2017-05-31 02:52]` [@nikosbaxevanis](https://twitter.com/nikosbaxevanis) ~ [What's the purpose of having type annotations](https://twitter.com/nikosbaxevanis/status/869629678444838912)
 - `[2017-05-31 02:47]` [@argumatronic](https://twitter.com/argumatronic) ~ [Haskell Pyramid](https://twitter.com/argumatronic/status/869637659639119873)
 - `[2017-05-28 03:58]` [@rickasaurus](https://twitter.com/rickasaurus) ~ [OO Architecture astronauts don't understand that Haskell](https://twitter.com/rickasaurus/status/867054121634934785)
