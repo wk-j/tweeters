@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2017-06-07 03:01]` [@kot_2010](https://twitter.com/kot_2010) ~ [Extension Functions Can Be Declared as Local Functions](https://twitter.com/kot_2010/status/872168316583936002)
 - `[2017-06-07 01:11]` [@jfischoff](https://twitter.com/jfischoff) ~ [type ¯\_(ツ)_/¯ = IO ()](https://twitter.com/jfischoff/status/546178663004524544)
 - `[2017-06-01 18:13]` [@ValaAfshar](https://twitter.com/ValaAfshar) ~ [Monorails in Japan](https://twitter.com/ValaAfshar/status/869757314001227776)
 - `[2017-06-01 18:04]` [@manekinekko](https://twitter.com/manekinekko) ~ [Understanding Async/Await in 7 Seconds](https://twitter.com/manekinekko/status/855824609299636230)
