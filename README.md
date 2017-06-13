@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2017-06-14 01:30]` [@kandelvijaya](https://twitter.com/kandelvijaya) ~ [What?](https://twitter.com/kandelvijaya/status/863163045110992896)
 - `[2017-06-14 01:16]` [@Iceland_jack](https://twitter.com/Iceland_jack) ~ [Great Haskell: (◃)](https://twitter.com/Iceland_jack/status/719572817512153088)
 - `[2017-06-13 23:28]` [@aisamanra](https://twitter.com/aisamanra) ~ [This is the most hipster way possible of defining linked lists](https://twitter.com/aisamanra/status/874431758346838016)
 - `[2017-06-13 20:45]` [@nixcraft](https://twitter.com/nixcraft) ~ [Pass by Value/Reference](https://twitter.com/nixcraft/status/874522268331671557)
