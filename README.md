@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2017-06-13 20:35]` [@lyzidiamond](https://twitter.com/lyzidiamond) ~ [UPPER CASE](https://twitter.com/lyzidiamond/status/874423709867491328)
 - `[2017-06-13 19:53]` [@gabrielg439](https://twitter.com/gabrielg439) ~ [My favorite new features in GHC 8](https://twitter.com/gabrielg439/status/734402153712865280)
 - `[2017-06-13 15:03]` [@jordwalke](https://twitter.com/jordwalke) ~ [Type inference doesn't mean code is unreadable](https://twitter.com/jordwalke/status/874525331171848192)
 - `[2017-06-07 03:01]` [@kot_2010](https://twitter.com/kot_2010) ~ [Extension Functions Can Be Declared as Local Functions](https://twitter.com/kot_2010/status/872168316583936002)
