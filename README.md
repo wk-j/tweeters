@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2017-06-16 18:51]` [@jckarter](https://twitter.com/jckarter) ~ [Why does JS have two equality operators](https://twitter.com/jckarter/status/856891811704348672)
 - `[2017-06-15 17:45]` [@chochosmx](https://twitter.com/chochosmx) ~ [Typesafe null in Ceylon vs Kotlin/Swift](https://twitter.com/chochosmx/status/874300476430405632)
 - `[2017-06-14 22:17]` [@queertypes](https://twitter.com/queertypes) ~ [Ternary](https://twitter.com/queertypes/status/532748228358193152)
 - `[2017-06-14 01:30]` [@kandelvijaya](https://twitter.com/kandelvijaya) ~ [What?](https://twitter.com/kandelvijaya/status/863163045110992896)
