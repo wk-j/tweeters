@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2017-06-18 15:03]` [@kjnilsson](https://twitter.com/kjnilsson) ~ [OO in a pure functional language?](https://twitter.com/kjnilsson/status/875994051916509184)
 - `[2017-06-17 23:13]` [@jusrin00](https://twitter.com/jusrin00) ~ [Types are a lie](https://twitter.com/jusrin00/status/875238742621028355)
 - `[2017-06-16 18:51]` [@jckarter](https://twitter.com/jckarter) ~ [Why does JS have two equality operators](https://twitter.com/jckarter/status/856891811704348672)
 - `[2017-06-15 17:45]` [@chochosmx](https://twitter.com/chochosmx) ~ [Typesafe null in Ceylon vs Kotlin/Swift](https://twitter.com/chochosmx/status/874300476430405632)
