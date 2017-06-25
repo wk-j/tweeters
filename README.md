@@ -1,6 +1,7 @@
 ## Tweets
 
-- `[2017-06-20 02:24]` [@lenadroid](https://twitter.com/lenadroid) ~ [Have you had a moment when you chose some tech X instead of F# for something?](https://twitter.com/lenadroid/status/876865210694246400)
+- `[2017-06-25 20:36]` [@JasonImison](https://twitter.com/JasonImison) ~ [F# and C# in the same project](https://twitter.com/JasonImison/status/877901540324810752)
+- `[2017-06-20 02:24]` [@lenadroid](https://twitter.com/lenadroid) ~ [Chose some tech X instead of F# for something?](https://twitter.com/lenadroid/status/876865210694246400)
 - `[2017-06-19 11:36]` [@tomaspetricek](https://twitter.com/tomaspetricek) ~ [Fun type-provider type-level magic](https://twitter.com/tomaspetricek/status/876225695592198145)
 - `[2017-06-18 15:03]` [@kjnilsson](https://twitter.com/kjnilsson) ~ [OO in a pure functional language?](https://twitter.com/kjnilsson/status/875994051916509184)
 - `[2017-06-17 23:13]` [@jusrin00](https://twitter.com/jusrin00) ~ [Types are a lie](https://twitter.com/jusrin00/status/875238742621028355)
