@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2017-06-27 14:19]` [@sforkmann](https://twitter.com/sforkmann) ~ [Reporting bugs considered harmful ;-)](https://twitter.com/sforkmann/status/872099050224590848)
 - `[2017-06-25 20:36]` [@JasonImison](https://twitter.com/JasonImison) ~ [F# and C# in the same project](https://twitter.com/JasonImison/status/877901540324810752)
 - `[2017-06-20 02:24]` [@lenadroid](https://twitter.com/lenadroid) ~ [Chose some tech X instead of F# for something?](https://twitter.com/lenadroid/status/876865210694246400)
 - `[2017-06-19 11:36]` [@tomaspetricek](https://twitter.com/tomaspetricek) ~ [Fun type-provider type-level magic](https://twitter.com/tomaspetricek/status/876225695592198145)
