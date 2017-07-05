@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2017-07-05 13:18]` [@ptrelford](https://twitter.com/ptrelford) ~ [Best Advice for Folks Learning #FSharp](https://twitter.com/ptrelford/status/882283378220859392)
 - `[2017-07-05 00:35]` [@ValentinKasas](https://twitter.com/ValentinKasas) ~ [The shortest FP book ever – Volume II](https://twitter.com/ValentinKasas/status/882128797428047872)
 - `[2017-06-28 01:47]` [@ploeh](https://twitter.com/ploeh) ~ [Does Haskell have a function that replicates a value as a tuple?](https://twitter.com/ploeh/status/710045611098251264)
 - `[2017-06-28 01:43]` [@griotspeak](https://twitter.com/griotspeak) ~ [Will someone please explain to me `liftM2`](https://twitter.com/griotspeak/status/749239892400410628)
