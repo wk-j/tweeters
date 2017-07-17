@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2017-07-17 13:53]` [@hmemcpy](https://twitter.com/hmemcpy) ~ [map succ HAL](https://twitter.com/hmemcpy/status/886682519399215105)
 - `[2017-07-17 00:49]` [@pblasucci](https://twitter.com/pblasucci) ~ [Complexity exists because](https://twitter.com/pblasucci/status/886524814487408640)
 - `[2017-07-11 23:47]` [@sforkmann](https://twitter.com/sforkmann) ~ [Comma at start of line notation](https://twitter.com/sforkmann/status/884740010116878336)
 - `[2017-07-10 19:23]` [@pblasucci](https://twitter.com/pblasucci) ~ [Modern FP in 4 steps](https://twitter.com/pblasucci/status/884120863175581696)
