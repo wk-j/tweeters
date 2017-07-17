@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2017-07-17 21:16]` [@jdeisenberg](https://twitter.com/jdeisenberg) ~ [Programming for People Whose Programs Don't Need to Scale](https://twitter.com/jdeisenberg/status/886312147528982528)
 - `[2017-07-17 13:53]` [@hmemcpy](https://twitter.com/hmemcpy) ~ [map succ HAL](https://twitter.com/hmemcpy/status/886682519399215105)
 - `[2017-07-17 00:49]` [@pblasucci](https://twitter.com/pblasucci) ~ [Complexity exists because](https://twitter.com/pblasucci/status/886524814487408640)
 - `[2017-07-11 23:47]` [@sforkmann](https://twitter.com/sforkmann) ~ [Comma at start of line notation](https://twitter.com/sforkmann/status/884740010116878336)
