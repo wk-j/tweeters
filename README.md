@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2017-08-03 11:08]` [@hardmaru](https://twitter.com/hardmaru) ~ [Learning to Infer Graphics Programs from Hand-Drawn Images](https://twitter.com/hardmaru/status/892953543887532032)
 - `[2017-07-25 14:15]` [@hmemcpy](https://twitter.com/hmemcpy) ~ [Learning Curve of Popular Haskell Concepts](https://twitter.com/hmemcpy/status/889732980163399681)
 - `[2017-07-17 21:16]` [@jdeisenberg](https://twitter.com/jdeisenberg) ~ [Programming for People Whose Programs Don't Need to Scale](https://twitter.com/jdeisenberg/status/886312147528982528)
 - `[2017-07-17 13:53]` [@hmemcpy](https://twitter.com/hmemcpy) ~ [map succ HAL](https://twitter.com/hmemcpy/status/886682519399215105)
