@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2017-08-07 20:39]` [@chris__martin](https://twitter.com/chris__martin) ~ [ALIENS: we bring you a gift of reliable computing technol--](https://twitter.com/chris__martin/status/893951453269766144)
 - `[2017-08-07 15:30]` [@pigworker](https://twitter.com/pigworker) ~ [Accidental blook](https://twitter.com/pigworker/status/880398813743247360)
 - `[2017-08-07 01:22]` [@chris__martin](https://twitter.com/chris__martin) ~ [The Paradox](https://twitter.com/chris__martin/status/893525685410701312)
 - `[2017-08-07 00:48]` [@pasiphae_goals](https://twitter.com/pasiphae_goals) ~ [Does python rot your brain](https://twitter.com/pasiphae_goals/status/894035380546277377)
