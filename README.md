@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2017-10-20 20:45]` [@jusrin00](https://twitter.com/jusrin00) ~ [Haskell - Elm](https://twitter.com/jusrin00/status/921287122904125440)
 - `[2017-10-12 16:34]` [@isaac_abraham](https://twitter.com/isaac_abraham) ~ [What's the point in marking a method as async?](https://twitter.com/isaac_abraham/status/918386252214358016)
 - `[2017-09-18 19:19]` [@chris__martin](https://twitter.com/chris__martin) ~ [Pokemon Type Chart](https://twitter.com/chris__martin/status/909625661203107841)
 - `[2017-08-28 14:09]` [@themattchan](https://twitter.com/themattchan) ~ [Handy translation table](https://twitter.com/themattchan/status/902036533246439424)
