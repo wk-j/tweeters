@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2017-10-31 02:09]` [@lexi_lambda](https://twitter.com/lexi_lambda) ~ [Stop making nightmare code bases](https://twitter.com/lexi_lambda/status/924898403749806080)
 - `[2017-10-30 14:56]` [@smdiehl](https://twitter.com/smdiehl) ~ [Language Evolution](https://twitter.com/smdiehl/status/924714600238649344)
 - `[2017-10-20 20:45]` [@jusrin00](https://twitter.com/jusrin00) ~ [Haskell - Elm](https://twitter.com/jusrin00/status/921287122904125440)
 - `[2017-10-12 16:34]` [@isaac_abraham](https://twitter.com/isaac_abraham) ~ [What's the point in marking a method as async?](https://twitter.com/isaac_abraham/status/918386252214358016)
