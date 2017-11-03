@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2017-11-03 21:31]` [@eiriktsarpalis](https://twitter.com/eiriktsarpalis) ~ [F# seems old and forgotten](https://twitter.com/eiriktsarpalis/status/912714401609846785)
 - `[2017-10-31 12:40]` [@rileywatkins](https://twitter.com/rileywatkins) ~ [Monadic do-notation for partially applied](https://twitter.com/rileywatkins/status/925019173477949440)
 - `[2017-10-31 11:59]` [@mattoflambda](https://twitter.com/mattoflambda) ~ [Do not notation](https://twitter.com/mattoflambda/status/925217438664445952)
 - `[2017-10-31 02:09]` [@lexi_lambda](https://twitter.com/lexi_lambda) ~ [Stop making nightmare code bases](https://twitter.com/lexi_lambda/status/924898403749806080)
