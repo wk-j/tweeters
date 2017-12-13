@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2017-12-13 23:57]` [@citizenmatt](https://twitter.com/citizenmatt) ~ [C# Collection Initializer](https://twitter.com/citizenmatt/status/940173748510117889)
 - `[2017-11-17 14:38]` [@dsyme](https://twitter.com/dsyme) ~ [C# changes its mind after 20 years](https://twitter.com/dsyme/status/931095426341769216)
 - `[2017-11-10 14:34]` [@jdegoes](https://twitter.com/jdegoes) ~ [Don't you DARE call a functor anything but a functor](https://twitter.com/jdegoes/status/927622497213673478)
 - `[2017-11-08 01:59]` [@jaredpar](https://twitter.com/jaredpar) ~ [Fun C# Quiz](https://twitter.com/jaredpar/status/927624214407868417)
