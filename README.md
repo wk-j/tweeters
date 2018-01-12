@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2018-01-13 00:58]` [@matthewwarren](https://twitter.com/matthewwarren) ~ [If you like reading my posts on .NET internals](https://twitter.com/matthewwarren/status/951799867038404608)
 - `[2017-12-18 01:29]` [@dpoeschl](https://twitter.com/dpoeschl) ~ [How do you view the parameter help popup?](https://twitter.com/dpoeschl/status/938865024675672064)
 - `[2017-12-13 23:57]` [@citizenmatt](https://twitter.com/citizenmatt) ~ [C# Collection Initializer](https://twitter.com/citizenmatt/status/940173748510117889)
 - `[2017-11-17 14:38]` [@dsyme](https://twitter.com/dsyme) ~ [C# changes its mind after 20 years](https://twitter.com/dsyme/status/931095426341769216)
