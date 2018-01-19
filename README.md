@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2018-01-19 11:21]` [@jerrynixon](https://twitter.com/jerrynixon) ~ [C# challenge, can you do better?](https://twitter.com/jerrynixon/status/954058533242265600)
 - `[2018-01-16 16:07]` [@k_cieslak](https://twitter.com/k_cieslak) ~ [Trying to save some amount of typing by introducing unnecessary abstraction](https://twitter.com/k_cieslak/status/952922477302304768)
 - `[2018-01-13 00:58]` [@matthewwarren](https://twitter.com/matthewwarren) ~ [If you like reading my posts on .NET internals](https://twitter.com/matthewwarren/status/951799867038404608)
 - `[2017-12-18 01:29]` [@dpoeschl](https://twitter.com/dpoeschl) ~ [How do you view the parameter help popup?](https://twitter.com/dpoeschl/status/938865024675672064)
