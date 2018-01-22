@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2018-01-23 02:23]` [@vcsjones](https://twitter.com/vcsjones) ~ [This is broken or wrong C# code](https://twitter.com/vcsjones/status/955438277577801728)
 - `[2018-01-19 13:34]` [@terrajobst](https://twitter.com/terrajobst) ~ [What does this code write to the console?](https://twitter.com/terrajobst/status/954138131908911104)
 - `[2018-01-19 11:21]` [@jerrynixon](https://twitter.com/jerrynixon) ~ [C# challenge, can you do better?](https://twitter.com/jerrynixon/status/954058533242265600)
 - `[2018-01-16 16:07]` [@k_cieslak](https://twitter.com/k_cieslak) ~ [Trying to save some amount of typing by introducing unnecessary abstraction](https://twitter.com/k_cieslak/status/952922477302304768)
