@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2018-01-28 02:38]` [@swgillespie](https://twitter.com/swgillespie) ~ [Making the GC a dynamically-loadable component](https://twitter.com/swgillespie/status/956970249571655680)
 - `[2018-01-28 02:14]` [@xoofx](https://twitter.com/xoofx) ~ [Best-selecting 4 features of C#/.NET](https://twitter.com/xoofx/status/956992665958211584)
 - `[2018-01-26 02:29]` [@khellang](https://twitter.com/khellang) ~ [X and Y has different types because of the wrapping parentheses](https://twitter.com/khellang/status/956551133316767745)
 - `[2018-01-23 02:23]` [@vcsjones](https://twitter.com/vcsjones) ~ [This is broken or wrong C# code](https://twitter.com/vcsjones/status/955438277577801728)
