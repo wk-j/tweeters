@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2018-01-30 00:26]` [@marcgravell](https://twitter.com/marcgravell) ~ [I love the new `readonly struct` in C# 7.2](https://twitter.com/marcgravell/status/957944881095299072)
 - `[2018-01-28 02:38]` [@swgillespie](https://twitter.com/swgillespie) ~ [Making the GC a dynamically-loadable component](https://twitter.com/swgillespie/status/956970249571655680)
 - `[2018-01-28 02:14]` [@xoofx](https://twitter.com/xoofx) ~ [Best-selecting 4 features of C#/.NET](https://twitter.com/xoofx/status/956992665958211584)
 - `[2018-01-26 02:29]` [@khellang](https://twitter.com/khellang) ~ [X and Y has different types because of the wrapping parentheses](https://twitter.com/khellang/status/956551133316767745)
