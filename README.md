@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2018-02-26 02:39]` [@java](https://twitter.com/java) ~ [How #Java 10 will CHANGE the Way You Code](https://twitter.com/java/status/967463386609954816)
 - `[2018-02-06 00:52]` [@discostu105](https://twitter.com/discostu105) ~ [.NET Core really 70X faster in Linq](https://twitter.com/discostu105/status/960423216677380096)
 - `[2018-01-31 00:12]` [@matthewwarren](https://twitter.com/matthewwarren) ~ [CLR vs JVM](https://twitter.com/matthewwarren/status/958309574871744513)
 - `[2018-01-30 00:26]` [@marcgravell](https://twitter.com/marcgravell) ~ [I love the new `readonly struct` in C# 7.2](https://twitter.com/marcgravell/status/957944881095299072)
