@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2018-04-09 18:46]` [@STeplyakov](https://twitter.com/STeplyakov) ~ [Use decostruction syntax to initialize more than one field/property](https://twitter.com/STeplyakov/status/983206875582758912)
 - `[2018-03-02 13:27]` [@tafs7](https://twitter.com/tafs7) ~ [.NET private field naming convention](https://twitter.com/tafs7/status/968967777527754753)
 - `[2018-02-26 02:39]` [@java](https://twitter.com/java) ~ [How #Java 10 will CHANGE the Way You Code](https://twitter.com/java/status/967463386609954816)
 - `[2018-02-06 00:52]` [@discostu105](https://twitter.com/discostu105) ~ [.NET Core really 70X faster in Linq](https://twitter.com/discostu105/status/960423216677380096)
