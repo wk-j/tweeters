@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2018-05-28 02:28]` [@Nick_Craver](https://twitter.com/Nick_Craver) ~ [GetAwaiter().GetResult(). Please don't do that](https://twitter.com/Nick_Craver/status/927245488100986881)
 - `[2018-04-19 21:15]` [@SamuelArzt](https://twitter.com/SamuelArzt) ~ [Struct layout](https://twitter.com/SamuelArzt/status/986706142192599042)
 - `[2018-04-09 18:46]` [@STeplyakov](https://twitter.com/STeplyakov) ~ [Use decostruction syntax to initialize more than one field/property](https://twitter.com/STeplyakov/status/983206875582758912)
 - `[2018-03-02 13:27]` [@tafs7](https://twitter.com/tafs7) ~ [.NET private field naming convention](https://twitter.com/tafs7/status/968967777527754753)
