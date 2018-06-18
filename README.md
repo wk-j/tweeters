@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2018-06-18 11:34]` [@unclebobmartin](https://twitter.com/unclebobmartin) ~ [Statically typed langauges are like having a speell checker](https://twitter.com/unclebobmartin/status/1008326657881575424)
 - `[2018-06-12 10:51]` [@ploeh](https://twitter.com/ploeh) ~ [Microsoft.FSharp.Primitives.Basics.List](https://twitter.com/ploeh/status/678630211571838976)
 - `[2018-05-28 02:28]` [@Nick_Craver](https://twitter.com/Nick_Craver) ~ [GetAwaiter().GetResult(). Please don't do that](https://twitter.com/Nick_Craver/status/927245488100986881)
 - `[2018-04-19 21:15]` [@SamuelArzt](https://twitter.com/SamuelArzt) ~ [Struct layout](https://twitter.com/SamuelArzt/status/986706142192599042)
