@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2018-06-30 01:51]` [@lucasmeijer](https://twitter.com/lucasmeijer) ~ [C# without dotnet](https://twitter.com/lucasmeijer/status/1012083572126121984)
 - `[2018-06-19 03:22]` [@unclebobmartin](https://twitter.com/unclebobmartin) ~ [New Blog: The Dark Path](https://twitter.com/unclebobmartin/status/819242373377118208)
 - `[2018-06-18 11:34]` [@unclebobmartin](https://twitter.com/unclebobmartin) ~ [Statically typed langauges are like having a speell checker](https://twitter.com/unclebobmartin/status/1008326657881575424)
 - `[2018-06-12 10:51]` [@ploeh](https://twitter.com/ploeh) ~ [Microsoft.FSharp.Primitives.Basics.List](https://twitter.com/ploeh/status/678630211571838976)
