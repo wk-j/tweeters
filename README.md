@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2018-07-08 19:31]` [@Nick_Craver](https://twitter.com/Nick_Craver) ~ [I don't think I like default](https://twitter.com/Nick_Craver/status/1013580307637964800)
 - `[2018-06-30 01:51]` [@lucasmeijer](https://twitter.com/lucasmeijer) ~ [C# without dotnet](https://twitter.com/lucasmeijer/status/1012083572126121984)
 - `[2018-06-19 03:22]` [@unclebobmartin](https://twitter.com/unclebobmartin) ~ [New Blog: The Dark Path](https://twitter.com/unclebobmartin/status/819242373377118208)
 - `[2018-06-18 11:34]` [@unclebobmartin](https://twitter.com/unclebobmartin) ~ [Statically typed langauges are like having a speell checker](https://twitter.com/unclebobmartin/status/1008326657881575424)
