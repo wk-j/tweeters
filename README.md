@@ -1,5 +1,6 @@
 ## Tweets
 
+- `[2019-11-03 04:49]` [@runfaster2000](https://twitter.com/runfaster2000) ~ [I'm planning .NET Core 5.0](https://twitter.com/runfaster2000/status/1190312087735549953)
 - `[2019-10-19 22:48]` [@MStrehovsky](https://twitter.com/MStrehovsky) ~ [A Little Know C# Fact](https://twitter.com/MStrehovsky/status/1183447787532443653)
 - `[2019-09-26 02:33]` [@James_M_South](https://twitter.com/James_M_South) ~ [I really do not like C# using statement](https://twitter.com/James_M_South/status/1176833825420111872)
 - `[2018-09-28 11:36]` [@davidfowl](https://twitter.com/davidfowl) ~ [Are you using ContinueWith in your async code? If yes? Why?](https://twitter.com/davidfowl/status/1044847039929028608)
